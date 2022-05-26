@@ -2,4 +2,4 @@
 cp *.html ../
 Weak
 15 -
-mv[A-Z]*/tmp/u
+mv [A-Z]*/tmp/u
